@@ -30,7 +30,7 @@ body
 	list-style-type: none;
     	overflow: hidden;
     	background-color: #F04B12;
-	border-radius: 6px;
+	/*border-radius: 6px;*/
 }
 
 #nav li {
