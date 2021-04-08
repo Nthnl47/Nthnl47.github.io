@@ -48,7 +48,7 @@ body
     	text-decoration: none;
 }
 #nav li a:hover {
-    background-color: #111;
+    background-color: radial-gradient(circle, red,#111 );
 }
 /*ul li
 {
