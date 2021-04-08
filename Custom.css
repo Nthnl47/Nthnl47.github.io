@@ -15,31 +15,20 @@ body
 }
 #block
 {
-	width: 65%;
+	width: 900px;
 	margin:0 auto;
-	/*background-image:url("https://media.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif");*/
+	background-image:url("https://media.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif");
 	background-size:cover;
 	text-align:center;
 	align-content:center;
 
 }
-#nav {
-	padding: 0; margin: 0;
-	text-align: center; /* centrer le texte */
-}
-#nav li {
-	display: inline;
-	list-style: none;
-}
-#nav a {
-	display:inline-block;
-	margin: 0 30px;
-}
-/*ul li
+
+ul li
 {
 	list-style-type:none;
 	font-weight:bold;
-}*/
+}
 
 
 a:visited
