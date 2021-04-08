@@ -15,7 +15,7 @@ body
 }
 #block
 {
-	width: 900px;
+	width: 1200px;
 	margin:0 auto;
 	/*background-image:url("https://media.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif");*/
 	background-size:cover;
@@ -35,7 +35,7 @@ body
 	display: inline;
 	list-style: none;
 	
-	/*float: left;*/
+	float: left;
 }
 #nav a {
 	display:inline-block;
@@ -47,9 +47,9 @@ body
     	padding: 14px 16px;
     	text-decoration: none;
 }
-/*#nav li a:hover {
+#nav li a:hover {
     background-color: #111;
-}*/
+}
 /*ul li
 {
 	list-style-type:none;
