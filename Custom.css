@@ -28,7 +28,7 @@ body
 	margin: 0;	
 	list-style-type: none;
     	overflow: hidden;
-    	background-image: linear-gradient(to right, #F04B12 60%, rgba(0,0,0,0));
+    	background-color: #F04B12;
 	border-radius: 6px;
 }
 
