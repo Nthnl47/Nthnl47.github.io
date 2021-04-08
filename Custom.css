@@ -17,7 +17,7 @@ body
 {
 	width: 75% content-box;
 	margin:0 auto;
-	background-image:url("https://media.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif");
+	/*background-image:url("https://media.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif");*/
 	background-size:cover;
 	text-align:center;
 	align-content:center;
@@ -35,11 +35,11 @@ body
 	display:inline-block;
 	margin: 0 30px;
 }
-ul li
+/*ul li
 {
 	list-style-type:none;
 	font-weight:bold;
-}
+}*/
 
 
 a:visited
