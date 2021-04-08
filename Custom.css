@@ -35,7 +35,7 @@ body
 	display: inline;
 	list-style: none;
 	
-	float: left;
+	float: center;
 }
 #nav a {
 	display:inline-block;
