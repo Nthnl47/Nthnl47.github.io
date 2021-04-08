@@ -15,13 +15,25 @@ body
 }
 #block
 {
-	width: 900px;
+	width: 75% content-box;
 	margin:0 auto;
 	background-image:url("https://media.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif");
 	background-size:cover;
 	text-align:center;
 	align-content:center;
 
+}
+#nav {
+	padding: 0; margin: 0;
+	text-align: center; /* centrer le texte */
+}
+#nav li {
+	display: inline;
+	list-style: none;
+}
+#nav a {
+	display:inline-block;
+	margin: 0 30px;
 }
 ul li
 {
