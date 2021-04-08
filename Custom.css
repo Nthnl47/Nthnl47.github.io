@@ -15,7 +15,7 @@ body
 }
 #block
 {
-	width: 75%;
+	width: 1200px;
 	margin:0 auto;
 	/*background-image:url("https://media.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif");*/
 	background-size:cover;
@@ -48,7 +48,7 @@ body
     	text-decoration: none;
 }
 #nav li a:hover {
-    background-color: #E8502F;
+    background-color: #111;
 }
 /*ul li
 {
