@@ -13,6 +13,10 @@ body
 	font-size:1.2em;
 	font-family:Verdana;
 }
+ariane {
+
+	text-align:right;
+}
 #block
 {
 	width: 80%;
@@ -26,16 +30,19 @@ body
 #nav {
 
     	width: 100%;
-	padding: 0; 
-	margin: 0;	
-	list-style-type: none;
+	padding: 0 0; 
+	margin: 0 0;	
     	overflow: hidden;
-    	background-color: #F04B12;
+	background-color: #F04B12;
 	/*border-radius: 6px;*/
+}
+#nav ul {
+    display: inline-block;
+    list-style-type: none;
 }
 
 #nav li {
-	display: inline;
+
 	list-style: none;	
 	float: left;
 }
@@ -47,8 +54,12 @@ body
     	text-align: center;
     	padding: 14px 16px;
     	text-decoration: none;
+	font-size: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
 }
 #nav li a:hover {
+
     	background: #CF401E;
 	list-style: none;
 	float: left;
@@ -64,4 +75,22 @@ a:hover
 {
 	text-decoration:underline;
 	color:grey;
+}
+#text {
+	background: #CF401E;
+	border-radius: 6px;
+	margin: 5% 0;
+	padding: 10px 10px;
+	
+}
+#noms {
+	background-color: rgb(255,255,255,0.8);
+	
+	color: #CF401E;
+	border-radius: 6px;
+	margin: 5% 5px;
+	padding: 10px 10px;
+	overflow: hidden;
+	font-weight: bold;
+	
 }
