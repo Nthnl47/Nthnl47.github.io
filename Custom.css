@@ -36,45 +36,25 @@ body
 
 #nav li {
 	display: inline;
-	list-style: none;
-	
+	list-style: none;	
 	float: left;
 }
 #nav  a {
     	
 	display:inline-block;
 	margin: 0;
-	
-	display: block;
     	color: white;
     	text-align: center;
-        
     	padding: 14px 16px;
     	text-decoration: none;
 }
 #nav li a:hover {
-    background: #CF401E;
+    	background: #CF401E;
 	list-style: none;
-	
 	float: left;
 }
-#nav a {
-	display:inline-block;
-	display: block;
-    	color: white;
-    	text-align: center;
-    	padding: 14px 16px;
-    	text-decoration: none;
-}
-#nav li a:hover {
-    background-color: radial-gradient(circle, red,#111 );
-}
-/*ul li
-{
-	list-style-type:none;
-	font-weight:bold;
-}
-*/
+
+
 
 a:visited
 {
