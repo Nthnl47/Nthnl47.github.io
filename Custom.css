@@ -19,6 +19,7 @@ ariane {
 }
 #block
 {
+
 	width: 80%;
 	margin:0 auto;
 	/*background-image:url("https://media.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif");*/
@@ -208,7 +209,7 @@ border-radius: 6px;
   opacity: 1;
 }
 
-.text {
+.name {
   color: white;
   font-size: 20px;
   position: absolute;
