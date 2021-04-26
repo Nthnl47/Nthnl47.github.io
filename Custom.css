@@ -94,3 +94,59 @@ a:hover
 	font-weight: bold;
 	
 }
+#message {
+	font-size : 50px;
+	text-align : left;
+	font-weight: bold;	
+}
+#messagebis {
+	
+	text-align : left;
+	background: #CF401E;
+	border-radius: 6px;
+	margin: 5% 0;
+	padding: 10px 10px;
+	
+}
+#Synopsis {
+	font-size : 50px;
+	text-align : left;
+	font-weight: bold;	
+}
+#Synopsisbis {
+	text-align : left;
+	background: #CF401E;
+	border-radius: 6px;
+	margin: 5% 0;
+	padding: 10px 10px;
+	
+	
+}
+#chronologie {
+	font-size : 50px;
+	text-align : left;
+	font-weight: bold;	
+}
+#chronologiebis {
+	text-align : left;
+	background: #CF401E;
+	border-radius: 6px;
+	margin: 5% 0;
+	padding: 10px 10px;
+	
+	
+}
+#problèmes {
+	font-size : 50px;
+	text-align : left;
+	font-weight: bold;	
+}
+#problèmesbis {
+	text-align : left;
+	background: #CF401E;
+	border-radius: 6px;
+	margin: 5% 0;
+	padding: 10px 10px;
+	
+	
+}
