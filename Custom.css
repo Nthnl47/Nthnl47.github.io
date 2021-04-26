@@ -94,11 +94,7 @@ a:hover
 	font-weight: bold;
 	
 }
-#message {
-	font-size : 50px;
-	text-align : left;
-	font-weight: bold;	
-}
+
 #messagebis {
 	
 	text-align : left;
@@ -108,7 +104,8 @@ a:hover
 	padding: 10px 10px;
 	
 }
-#Synopsis {
+#titre {
+
 	font-size : 50px;
 	text-align : left;
 	font-weight: bold;	
@@ -122,11 +119,7 @@ a:hover
 	
 	
 }
-#chronologie {
-	font-size : 50px;
-	text-align : left;
-	font-weight: bold;	
-}
+
 #chronologiebis {
 	text-align : left;
 	background: #CF401E;
@@ -136,17 +129,48 @@ a:hover
 	
 	
 }
-#problèmes {
-	font-size : 50px;
-	text-align : left;
-	font-weight: bold;	
-}
+
 #problèmesbis {
-	text-align : left;
+	text-align : center;
 	background: #CF401E;
 	border-radius: 6px;
 	margin: 5% 0;
-	padding: 10px 10px;
+	padding: 0px 0px;
 	
 	
+}
+#archives {
+	
+    	width: 50%;
+	padding: 0 0; 
+	margin: 0 0;	
+    	overflow: hidden;
+	background-color: #F04B12;
+
+}
+#archives ul {
+
+    list-style-type: none;
+}
+
+#archives li {
+
+	list-style: none;	
+	float: center;
+}
+#archives  a {
+    	padding: 2% 0;
+	display:inline-block;
+    	color: white;
+    	text-decoration: none;
+	font-size: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+#archives li a:hover {
+	padding: 2% 0;
+	width: 100%;
+    	background: #CF401E;
+	list-style: none;
+	float: center;
 }
